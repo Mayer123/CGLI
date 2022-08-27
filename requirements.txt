@@ -1,0 +1,6 @@
+pip install transformers==4.2.1 
+pip install spacy==2.3.5 
+pip install pylev==1.4.0
+pip install stemming==1.0.1
+pip install matplotlib==3.5.1
+pip install scikit-learn==1.0.2
