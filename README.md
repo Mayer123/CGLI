@@ -1,5 +1,5 @@
 # CGLI
-This repository contains the code for the paper "Coalescing Global and Local Information for Procedural Text Understanding" (COLING 2022). See full paper [here]()
+This repository contains the code for the paper "Coalescing Global and Local Information for Procedural Text Understanding" (COLING 2022). See full paper [here](http://arxiv.org/abs/2208.12848)
 
 Note that our code is adapted from [TSLM](https://github.com/HLR/TSLM), the evaluation code for ProPara task is adapted from [propara](https://github.com/allenai/propara/tree/master/propara/evaluation) and [aristo-leaderboard](https://github.com/allenai/aristo-leaderboard/tree/master/propara), and the evaluation code for TRIP task is adapted from [trip](https://github.com/sled-group/Verifiable-Coherent-NLU). 
 
@@ -51,5 +51,12 @@ python main_story.py --output_dir downloaded_model_dir --train_name noCRF --do_e
 
 ## Cite 
 ```
-
+@misc{ma2022coalescing,
+    title={Coalescing Global and Local Information for Procedural Text Understanding},
+    author={Kaixin Ma and Filip Ilievski and Jonathan Francis and Eric Nyberg and Alessandro Oltramari},
+    year={2022},
+    eprint={2208.12848},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
 ```
