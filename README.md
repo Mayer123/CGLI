@@ -51,12 +51,19 @@ python main_story.py --output_dir downloaded_model_dir --train_name noCRF --do_e
 
 ## Cite 
 ```
-@misc{ma2022coalescing,
-    title={Coalescing Global and Local Information for Procedural Text Understanding},
-    author={Kaixin Ma and Filip Ilievski and Jonathan Francis and Eric Nyberg and Alessandro Oltramari},
-    year={2022},
-    eprint={2208.12848},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{ma-etal-2022-coalescing,
+    title = "Coalescing Global and Local Information for Procedural Text Understanding",
+    author = "Ma, Kaixin  and
+      Ilievski, Filip  and
+      Francis, Jonathan  and
+      Nyberg, Eric  and
+      Oltramari, Alessandro",
+    booktitle = "Proceedings of the 29th International Conference on Computational Linguistics",
+    month = oct,
+    year = "2022",
+    address = "Gyeongju, Republic of Korea",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2022.coling-1.132",
+    pages = "1534--1545",
 }
 ```
